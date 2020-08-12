@@ -6,5 +6,7 @@
 
 def happy_birthday(birthday_kids)
   # add your code snippet here!
-  birth
+  birthday_kids.each { |key, value|
+    puts 
+  }
 end
